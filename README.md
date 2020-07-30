@@ -14,10 +14,10 @@ Over 30-35 epochs, the training converged with an accuracy close to 90% with an 
 <h2>Predictions</h2>
 Lets see some examples to analyse how our model did to predict texts, for this we will feed the model with a seed text to to give our model some perception for it to know in what sense we want it to generate the texts.
 1)
-Seed: Lets go
-Predicted text: Lets go out
+Seed: Lets go ->
+Predicted text: Lets go out ->
 2)
-Seed: I want to meet
+Seed: I want to meet ->
 Predicted text: I want to meet your
 
 
